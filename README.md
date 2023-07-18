@@ -4,6 +4,6 @@
 ### Module 2 Project | Interacting with Web Services
 > using json and requests modules
 ### Module 3 Project | Automatic Output Generation
->
+> using email.message and reportlab(pdf generator)
 ### Module 4 Project | Putting It All Together
->
+> Final Course Project | Wrapping up Everything
